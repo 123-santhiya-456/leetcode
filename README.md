@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/123-santhiya-456/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/123-santhiya-456/leetcode/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/123-santhiya-456/leetcode/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->

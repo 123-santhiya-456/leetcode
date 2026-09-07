@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/123-santhiya-456/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [0202-happy-number](https://github.com/123-santhiya-456/leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/123-santhiya-456/leetcode/tree/master/0940-distinct-subsequences-ii) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/123-santhiya-456/leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/123-santhiya-456/leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/123-santhiya-456/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
